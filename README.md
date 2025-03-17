@@ -13,7 +13,9 @@ Apply Delegated API permissions to the application for the required operations y
 
 <img width="513" alt="Permissions" src="https://github.com/user-attachments/assets/afd045e9-9137-4636-8c90-20edea71761a" />
 
-Finally grant your user account access to the application registration & run the script.
+Then generate a secret for the app registration.
+
+Finally grant your user account access to the application registration & replace the details at the top of the script & run it!
 
 If not signed in, you will be asked for your credentials. If successful you will be told to close the browser.
 In your powershell window you will be greeted with a Graph API call displaying the user signed in.
